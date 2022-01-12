@@ -1,0 +1,9 @@
+main, header, nav, article, aside, footer
+{
+    border: 1px solid black;
+}
+
+.row
+{
+    margin: auto;
+}
